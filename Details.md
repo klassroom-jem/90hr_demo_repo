@@ -20,3 +20,4 @@
 |   Swati     | swati123	|	C++          |
 | Avinash kls   | klassroom@avi      | Dart          | 
 | Rohan   | Rohan@master    |Nodejs |
+|Suyog    |Suyog@master    |java|
